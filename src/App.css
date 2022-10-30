@@ -1,0 +1,30 @@
+.App{
+    padding:30px 10%;
+    background-color: rgba(0,0,0,0.9);
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+#credits{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #c2c2c2;
+}
+p a{
+    text-decoration: none;
+    background: skyblue;
+    border-radius: 2px;
+    padding: 2px 5px;
+    color: #000000;
+}
+@media screen and (max-width:770px) {
+    .App{
+        padding:10px 20px;
+    }
+}

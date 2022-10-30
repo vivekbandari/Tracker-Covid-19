@@ -1,0 +1,16 @@
+.container{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    text-align: center;
+    background:"#ffffff";
+    color:#ffffff;
+}
+.select{
+    background-color: #c2c2c2;
+    box-shadow: 0 2px 5px rgba(256,256,256,0.1);
+    border-radius: 5px;
+}
+.option{
+    text-align: center;
+    color: #000000;
+}
